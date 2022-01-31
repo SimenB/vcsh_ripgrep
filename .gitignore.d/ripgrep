@@ -1,6 +1,3 @@
 *
-!/.config
-!/.config/ripgrep
 !/.config/ripgrep/ripgreprc
-!/.gitignore.d
 !/.gitignore.d/ripgrep
